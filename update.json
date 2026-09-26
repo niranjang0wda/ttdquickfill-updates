@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/YOUR_GITHUB_USER/ttdquickfill-updates/releases/download/v1.3/TTDQuickFill-1.3.apk",
-  "sha256": "",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/niranjang0wda/ttdquickfill-updates/releases/download/v1.4/TTDQuickFill-1.4.apk",
+  "sha256": "fbe83bfd762086597c8159a900d4228884dec8b3a4c8e33eb237e08d66be3af9",
   "changelog": "• Auto-fill when the page loads\n• Version shown on home screen\n• Bug fixes",
   "forceUpdate": false,
   "minSupportedVersionCode": 0
