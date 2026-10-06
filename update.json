@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/niranjang0wda/ttdquickfill-updates/releases/download/v1.6/TTDQuickFill-1.6.apk",
-  "sha256": "7f6f04c30cb7a6c64d8e34e1760706333fe19361955b32c24b03f36a41bdb4a9",
-  "changelog": "•added bookin alert option in settings",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/niranjang0wda/ttdquickfill-updates/releases/download/v1.7/TTDQuickFill-1.7.apk",
+  "sha256": "sha256:a77a3e02689b6b336cb8e4df65c4917091b2eb65ecd80557ecb425bad2a59244",
+  "changelog": "•added auto fill when page loads",
   "forceUpdate": false,
   "minSupportedVersionCode": 0
 }
