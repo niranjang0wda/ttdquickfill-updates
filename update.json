@@ -2,7 +2,7 @@
   "versionCode": 8,
   "versionName": "1.7",
   "apkUrl": "https://github.com/niranjang0wda/ttdquickfill-updates/releases/download/v1.7/TTDQuickFill-1.7.apk",
-  "sha256": "sha256:a77a3e02689b6b336cb8e4df65c4917091b2eb65ecd80557ecb425bad2a59244",
+  "sha256": "a77a3e02689b6b336cb8e4df65c4917091b2eb65ecd80557ecb425bad2a59244",
   "changelog": "•added auto fill when page loads",
   "forceUpdate": false,
   "minSupportedVersionCode": 0
