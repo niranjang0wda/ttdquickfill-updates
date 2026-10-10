@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/niranjang0wda/ttdquickfill-updates/releases/download/v2.0/TTDQuickFill-2.0.apk",
-  "sha256": "368d2aef3e995adddef049438014a4e5af4f283bb9bb3d076510cffd7fcf39e9",
-  "changelog": "•copy paste access",
+  "versionCode": 10,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/niranjang0wda/ttdquickfill-updates/releases/download/v2.1/TTDQuickFill-2.1.apk",
+  "sha256": "09d2020ba81193b26105d7984f59539397e52ac9a1b24e88cccf5f7c4eab3bd0",
+  "changelog": "•when u click on field it auto copies only u need to paste and move forward ",
   "forceUpdate": false,
   "minSupportedVersionCode": 0
 }
